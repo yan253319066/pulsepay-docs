@@ -8,5 +8,5 @@ coverage/
 !.env.example
 cache
 .vitepress/dist/
-.package-lock.json
+package-lock.json
 nul

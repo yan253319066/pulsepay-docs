@@ -1,0 +1,6 @@
+# Robots.txt for PulsePay Docs
+
+User-agent: *
+Allow: /
+
+Sitemap: https://pulsepay.fun/docs/sitemap.xml

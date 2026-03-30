@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Background -->
+  <rect width="600" height="400" fill="#f8fafc"/>
+  
+  <!-- Title -->
+  <text x="300" y="30" text-anchor="middle" fill="#1e293b" font-size="18" font-weight="bold">区块链是什么？</text>
+  <text x="300" y="50" text-anchor="middle" fill="#64748b" font-size="12">What is Blockchain?</text>
+  
+  <!-- Block 1 -->
+  <rect x="50" y="80" width="150" height="100" rx="8" fill="#3b82f6"/>
+  <text x="125" y="105" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="bold">区块 #12345</text>
+  <text x="125" y="125" text-anchor="middle" fill="#ffffff" font-size="10">时间戳: 2026-03-30</text>
+  <text x="125" y="145" text-anchor="middle" fill="#ffffff" font-size="10">交易记录...</text>
+  <text x="125" y="165" text-anchor="middle" fill="#e0f2fe" font-size="9">哈希: abc123...</text>
+  
+  <!-- Arrow -->
+  <path d="M205 130 L245 130" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Block 2 -->
+  <rect x="250" y="80" width="150" height="100" rx="8" fill="#10b981"/>
+  <text x="325" y="105" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="bold">区块 #12346</text>
+  <text x="325" y="125" text-anchor="middle" fill="#ffffff" font-size="10">时间戳: 2026-03-30</text>
+  <text x="325" y="145" text-anchor="middle" fill="#ffffff" font-size="10">交易记录...</text>
+  <text x="325" y="165" text-anchor="middle" fill="#d1fae5" font-size="9">前块哈希: abc123...</text>
+  
+  <!-- Arrow -->
+  <path d="M405 130 L445 130" stroke="#64748b" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Block 3 -->
+  <rect x="450" y="80" width="120" height="100" rx="8" fill="#8b5cf6"/>
+  <text x="510" y="105" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="bold">区块 #12347</text>
+  <text x="510" y="125" text-anchor="middle" fill="#ffffff" font-size="10">...</text>
+  <text x="510" y="165" text-anchor="middle" fill="#ede9fe" font-size="9">前块哈希: def456...</text>
+  
+  <!-- Key Points -->
+  <rect x="50" y="220" width="500" height="160" rx="8" fill="#ffffff" stroke="#e2e8f0" stroke-width="1"/>
+  
+  <text x="80" y="250" fill="#1e293b" font-size="14" font-weight="bold">核心特点</text>
+  
+  <circle cx="70" cy="280" r="4" fill="#3b82f6"/>
+  <text x="85" y="285" fill="#475569" font-size="11">🧱 区块：包含交易记录的数据包</text>
+  
+  <circle cx="70" cy="310" r="4" fill="#10b981"/>
+  <text x="85" y="315" fill="#475569" font-size="11">🔗 链：每个区块包含前一个区块的哈希</text>
+  
+  <circle cx="70" cy="340" r="4" fill="#f59e0b"/>
+  <text x="85" y="345" fill="#475569" font-size="11">🔒 不可篡改：改一个块，后面全要改</text>
+  
+  <circle cx="70" cy="370" r="4" fill="#ef4444"/>
+  <text x="85" y="375" fill="#475569" font-size="11">✅ 共识：多方验证，数据一致</text>
+</svg>

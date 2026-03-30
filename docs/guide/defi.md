@@ -134,7 +134,7 @@ DeFi（Aave/Compound）：
 ### 传统 DeFi vs PulsePay 收益
 
 ```
-传统 DeFi（流动性挖矿）：
+传统 DeFi（流动性激励）：
 - 收益来自后来者的资金
 - 本质是"旁氏"
 - 一旦新资金不足，收益归零
@@ -147,7 +147,7 @@ PulsePay 收益分成：
 
 ### 收益对比
 
-| 维度 | 传统 DeFi 挖矿 | PulsePay |
+| 维度 | 传统 DeFi | PulsePay |
 |------|----------------|----------|
 | **收益来源** | 新用户资金 | AI 业务收入 |
 | **透明度** | 链下不透明 | 链上可查 |
@@ -155,7 +155,7 @@ PulsePay 收益分成：
 | **风险** | 旁氏风险高 | 业务风险 |
 
 ::: tip 💡 试试 PulsePay
-[PulsePay 收益分成](../pulsepay/revenue-share) — 用真实业务收入分红，而非通胀挖矿。
+[PulsePay 收益分成](../pulsepay/revenue-share) — 用真实业务收入分红，而非通胀激励。
 :::
 
 ## 入门 DeFi 步骤

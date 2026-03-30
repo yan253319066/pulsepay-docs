@@ -156,7 +156,26 @@ export default defineConfig({
               text: 'PulsePay',
               items: [
                 { text: 'PulsePay 是什麼？', link: '/zh-TW/pulsepay/' },
-                { text: '快速開始', link: '/zh-TW/pulsepay/get-started' }
+                { text: '工作原理', link: '/zh-TW/pulsepay/how-it-works' },
+                { text: 'AI Gateway', link: '/zh-TW/pulsepay/ai-gateway' },
+                { text: '支付系統', link: '/zh-TW/pulsepay/payment' },
+                { text: '收益分成', link: '/zh-TW/pulsepay/revenue-share' },
+                { text: 'AIP 代幣經濟', link: '/zh-TW/pulsepay/tokenomics' },
+                { text: '快速開始', link: '/zh-TW/pulsepay/get-started' },
+                { text: '常見問題', link: '/zh-TW/pulsepay/faq' },
+                { text: '路線圖', link: '/zh-TW/pulsepay/roadmap' }
+              ]
+            }
+          ],
+          '/zh-TW/web3/': [
+            {
+              text: 'Web3 進階',
+              items: [
+                { text: 'DeFi 深入理解', link: '/zh-TW/web3/defi' },
+                { text: '智能合約原理', link: '/zh-TW/web3/smart-contract' },
+                { text: 'NFT 完全指南', link: '/zh-TW/web3/nft' },
+                { text: 'DAO 組織', link: '/zh-TW/web3/dao' },
+                { text: 'Web3 安全', link: '/zh-TW/web3/security' }
               ]
             }
           ]
@@ -205,7 +224,7 @@ export default defineConfig({
       { icon: 'telegram', link: 'https://t.me/pulsepay' }
     ],
     footer: {
-      message: 'PulsePay Protocol - AI 使用即挖矿',
+      message: 'PulsePay Protocol - AI 使用即收益',
       copyright: 'Copyright © 2026 PulsePay. All rights reserved.'
     },
     search: {

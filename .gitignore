@@ -6,6 +6,7 @@ coverage/
 *.log
 .env*
 !.env.example
-.vitepress/
+cache
+.vitepress/dist/
 .package-lock.json
 nul

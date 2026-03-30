@@ -287,5 +287,5 @@ Visit [ai.pulsepay.fun](https://ai.pulsepay.fun) to experience AI Gateway now.
 
 ## Next Steps
 
-- [Payment System Details](./payment) — Learn USDT/BNB payment
+- [Payment System Details](/en/pulsepay/payment) — Learn USDT/BNB payment
 - [Get Started](./get-started) — Complete usage guide

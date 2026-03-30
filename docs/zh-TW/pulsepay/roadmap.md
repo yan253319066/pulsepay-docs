@@ -271,5 +271,5 @@ Q4 2026：
 ```
 
 ::: tip 💡 加入我們
-[社區與支持](../resources/community) — 加入 PulsePay 社區，參與項目發展。
+[社區與支持](/zh-TW/resources/community) — 加入 PulsePay 社區，參與項目發展。
 :::

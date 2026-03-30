@@ -89,4 +89,4 @@ PulsePay Revenue Share:
 ## Next Steps
 
 - [First DApp](./first-dapp) - Hands-on tutorial
-- [PulsePay How It Works](../pulsepay/how-it-works) - Learn PulsePay's revenue logic
+- [PulsePay How It Works](/en/pulsepay/how-it-works) - Learn PulsePay's revenue logic

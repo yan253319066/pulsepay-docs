@@ -345,7 +345,7 @@ export default defineConfig({
       { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
     ],
     footer: {
-      message: 'PulsePay Protocol - AI 使用即收益',
+      message: 'PulsePay Protocol - AI-Driven Revenue Sharing',
       copyright: 'Copyright © 2026 PulsePay. All rights reserved.'
     },
     search: {

@@ -165,19 +165,17 @@ RPC：https://eth.llamarpc.com/
 
 ### 场景二：兑换 AIP
 
-```
 使用 USDT 兑换 AIP：
 
-1. 访问 stake.pulsepay.fun
+1. 访问 [stake.pulsepay.fun](https://stake.pulsepay.fun)
 2. 连接钱包
-3. 选择"兑换"功能
+3. 选择 "兑换" 功能
 4. 输入 USDT 数量
 5. 确认兑换
 
-Phase 1 价格：
+**Phase 1 价格**：
 - 1 USDT = 1 AIP
 - 最低 10 USDT 起
-```
 
 ## 提现指南
 

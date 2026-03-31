@@ -62,35 +62,39 @@ MetaMask defaults to Ethereum network. Switch to BSC:
 
 ## Hands-on: Use PulsePay
 
-### Step 1: Visit PulsePay
+### Step 1: Connect stake.pulsepay.fun
 
-```
 1. Open browser
-2. Visit app.pulsepay.fun
+2. Visit [stake.pulsepay.fun](https://stake.pulsepay.fun)
 3. Click "Connect Wallet"
 4. Select MetaMask
 5. Sign to confirm connection
-```
 
-### Step 2: Deposit
+### Step 2: Deposit USDT
 
-```
-1. On PulsePay wallet page
-2. Click "Deposit"
-3. Select USDT + BSC network
-4. Copy deposit address
-5. Withdraw from exchange to this address
-```
+Withdraw USDT from exchange (e.g., Binance) to your MetaMask wallet:
 
-### Step 3: Participate in Revenue Share
+1. Copy your MetaMask wallet address
+2. On exchange, select USDT withdrawal
+3. Choose BSC (BEP-20) network
+4. Paste your wallet address
+5. Confirm withdrawal
 
-```
-1. Visit stake.pulsepay.fun
-2. Connect wallet
-3. Activate AIP Revenue Share
+### Step 3: Swap for AIP
+
+1. On [stake.pulsepay.fun](https://stake.pulsepay.fun), click "Swap"
+2. Select USDT to AIP swap
+3. Enter amount (minimum 10 USDT)
+4. Confirm swap
+5. Wait for blockchain confirmation
+
+### Step 4: Participate in Revenue Share
+
+1. On [stake.pulsepay.fun](https://stake.pulsepay.fun), click "Revenue Share"
+2. Activate AIP Revenue Share
+3. Minimum 10 AIP
 4. Confirm transaction
 5. Start earning daily returns
-```
 
 ## Security Checklist
 

@@ -29,78 +29,71 @@ DApp的数据存在区块链上
 
 ### 需要的工具
 
-```
-1. 浏览器钱包（推荐 MetaMask）
-   👉 metamask.io
-
-2. 一些加密货币（用于 Gas 费）
-   推荐：BNB（用于 BSC 链）
-
-3. 稳定币（USDT）用于交易
-   建议：先少量尝试
-```
+1. **浏览器钱包**：推荐 [MetaMask](https://metamask.io)
+2. **加密货币**：用于支付 Gas 费，推荐 BNB（BSC 链）
+3. **稳定币**：USDT 用于交易，建议先少量尝试
 
 ### 第一步：安装 MetaMask
 
-```
-1. 访问 metamask.io
-2. 点击"Download"
+1. 访问 [MetaMask 官网](https://metamask.io)
+2. 点击 "Download"
 3. 选择你的浏览器（Chrome/Brave/Firefox）
 4. 安装插件
-5. 点击"开始使用"
-6. 选择"创建新钱包"
+5. 点击 "开始使用"
+6. 选择 "创建新钱包"
 7. 设置密码
 8. 保存助记词（12个单词）
-```
 
 ### 第二步：切换到 BSC 网络
 
 MetaMask 默认是以太坊网络，我们需要切换到 BSC：
 
-```
 1. 打开 MetaMask
 2. 点击顶部的网络选择
-3. 点击"添加网络"
+3. 点击 "添加网络"
 4. 填写 BSC 主网信息：
 
-   网络名称：BSC
-   RPC URL：https://bsc-dataseed.binance.org/
-   链 ID：56
-   符号：BNB
-   区块浏览器：https://bscscan.com
-```
+   - 网络名称：BSC
+   - RPC URL：`https://bsc-dataseed.binance.org/`
+   - 链 ID：56
+   - 符号：BNB
+   - 区块浏览器：[https://bscscan.com](https://bscscan.com)
 
 ## 实操：使用 PulsePay
 
-### 第一步：访问 PulsePay
+### 第一步：连接 stake.pulsepay.fun
 
-```
 1. 打开浏览器
-2. 访问 app.pulsepay.fun
-3. 点击"连接钱包"
+2. 访问 [stake.pulsepay.fun](https://stake.pulsepay.fun)
+3. 点击 "连接钱包"
 4. 选择 MetaMask
 5. 签名确认连接
-```
 
-### 第二步：充值
+### 第二步：充值 USDT
 
-```
-1. 在 PulsePay 钱包页面
-2. 点击"充值"
-3. 选择 USDT + BSC 网络
-4. 复制充值地址
-5. 从交易所提现到这个地址
-```
+从交易所（如币安）将 USDT 提现到你的 MetaMask 钱包地址：
 
-### 第三步：参与收益分成
+1. 复制你的 MetaMask 钱包地址
+2. 在交易所选择 USDT 提现
+3. 选择 BSC (BEP-20) 网络
+4. 粘贴你的钱包地址
+5. 确认提现
 
-```
-1. 访问 stake.pulsepay.fun
-2. 连接钱包
-3. 激活 AIP 收益分成
+### 第三步：兑换 AIP
+
+1. 在 [stake.pulsepay.fun](https://stake.pulsepay.fun) 点击 "兑换"
+2. 选择 USDT 兑换 AIP
+3. 输入兑换数量（最低 10 USDT）
+4. 确认兑换
+5. 等待链上确认
+
+### 第四步：参与收益分成
+
+1. 在 [stake.pulsepay.fun](https://stake.pulsepay.fun) 点击 "收益分成"
+2. 激活 AIP 收益分成
+3. 最低 10 AIP 起
 4. 确认交易
 5. 开始获得每日收益
-```
 
 ## 交易签名科普
 

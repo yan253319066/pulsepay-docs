@@ -20,22 +20,20 @@
 
 ### Step 1: Get a Wallet
 
-```
-Option 1: MetaMask (Browser Extension)
+**Option 1: MetaMask (Browser Extension)**
 
-1. Visit metamask.io
+1. Visit [MetaMask](https://metamask.io)
 2. Download browser extension
 3. Create wallet
 4. Backup seed phrase (12 words)
 5. Set password
 
-Option 2: MetaMask (Recommended)
+**Option 2: MetaMask (Recommended)**
 
 MetaMask is the most popular Web3 wallet and fully supports all PulsePay features.
 
 ### Step 2: Configure BSC Network
 
-```
 Add BSC Network in MetaMask:
 
 1. Click MetaMask extension
@@ -43,98 +41,86 @@ Add BSC Network in MetaMask:
 3. Click "Add Network"
 4. Fill in:
 
-Network Name: BSC
-RPC URL: https://bsc-dataseed.binance.org/
-Chain ID: 56
-Symbol: BNB
-Block Explorer: https://bscscan.com
+   - Network Name: BSC
+   - RPC URL: `https://bsc-dataseed.binance.org/`
+   - Chain ID: 56
+   - Symbol: BNB
+   - Block Explorer: [https://bscscan.com](https://bscscan.com)
 
 5. Click Save
-```
 
 ### Step 3: Get USDT
 
-```
-Method 1: Buy from Exchange
+**Method 1: Buy from Exchange**
 
 1. Login to Binance/OKX
 2. Go to C2C Trading
 3. Buy USDT (select BNB network)
 4. Withdraw to your wallet address
 
-⚠️ Note:
+::: warning ⚠️ Note
 - Select BSC (BEP-20) network
 - Fill in your wallet address
 - Test with small amount first
-```
+:::
 
 ## Participate in Phase 1
 
 ### Exchange AIP
 
-```
-1. Visit stake.pulsepay.fun
+1. Visit [stake.pulsepay.fun](https://stake.pulsepay.fun)
 2. Click "Connect Wallet"
 3. Select MetaMask
 4. Authorize connection
-
 5. Go to "Exchange" page
 6. Enter USDT amount
    - Minimum 10 USDT
    - Maximum 10,000 USDT/person
-
 7. Confirm exchange
    - 1 USDT = 1 AIP
    - No extra fees
-
 8. Wait for on-chain confirmation
 9. Done! AIP is in your wallet
-```
 
 ### Activate AIP Revenue Share
 
-```
 1. Go to "Stake" page
 2. Enter AIP amount to stake
 3. Click "Stake"
 4. Confirm transaction
 5. Wait for on-chain confirmation
 
-⚠️ Minimum: 10 AIP
-
+::: tip ⚠️ Minimum: 10 AIP
 Done! Start earning daily returns from tomorrow
-```
+:::
 
 ## Claim Returns
 
 ### View Returns
 
-```
 1. Go to "Returns" page
 2. View:
    - Cumulative returns
    - Today's returns
    - Pending claims
 
-Calculation:
+**Calculation**:
 - Daily settlement at UTC 0:00
 - Distributed by stake ratio
-```
 
 ### Claim Returns
 
-```
 1. Click "Claim" button
 2. Confirm claim amount
 3. Click confirm
 4. Wait for on-chain confirmation
 5. USDT/BNB to wallet
 
-⚠️ Note:
+::: warning ⚠️ Note
 - Returns need manual claiming
 - Not automatic
 - Recommend claiming weekly or daily
-```
+:::
 
 ## Quick Links
 

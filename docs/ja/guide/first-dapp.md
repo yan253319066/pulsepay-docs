@@ -45,9 +45,39 @@ DAppのデータはブロックチェーンに保存
 
 ## PulsePayを使用
 
-### ステップ1：PulsePayにアクセス
+### ステップ1：stake.pulsepay.funに接続
 
-```
+1. ブラウザを開く
+2. [stake.pulsepay.fun](https://stake.pulsepay.fun)にアクセス
+3. 「ウォレットを接続」をクリック
+4. MetaMaskを選択
+5. 署名して接続を確認
+
+### ステップ2：USDTを入金
+
+取引所（例：Binance）からMetaMask钱包にUSDTを出金：
+
+1. MetaMask钱包アドレスをコピー
+2. 取引所ではUSDT出金を選択
+3. BSC (BEP-20) ネットワークを選択
+4. 钱包アドレスを貼り付け
+5. 出金を確認
+
+### ステップ3：AIPを交換
+
+1. [stake.pulsepay.fun](https://stake.pulsepay.fun)で「交換」をクリック
+2. USDTからAIPへの交換を選択
+3. 金額を入力（最低10 USDT）
+4. 交換を確認
+5. チェーン確認を待つ
+
+### ステップ4：収益分配に参加
+
+1. [stake.pulsepay.fun](https://stake.pulsepay.fun)で「収益分配」をクリック
+2. AIP収益分配を有効化
+3. 最低10 AIPから
+4. 取引を確認
+5. 每日収益を獲得開始
 1. ブラウザを開く
 2. app.pulsepay.funにアクセス
 3. 「ウォレット接続」をクリック

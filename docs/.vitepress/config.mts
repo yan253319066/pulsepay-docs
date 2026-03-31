@@ -115,7 +115,33 @@ export default defineConfig({
               text: 'Guide',
               items: [
                 { text: 'What is Web3?', link: '/en/guide/' },
-                { text: 'What is Blockchain?', link: '/en/guide/blockchain' }
+                { text: 'What is Blockchain?', link: '/en/guide/blockchain' },
+                { text: 'Cryptocurrency Basics', link: '/en/guide/crypto' },
+                { text: 'DeFi Basics', link: '/en/guide/defi' },
+                { text: 'First DApp', link: '/en/guide/first-dapp' }
+              ]
+            }
+          ],
+          '/en/ai/': [
+            {
+              text: 'AI Basics',
+              items: [
+                { text: 'What is AI?', link: '/en/ai/' },
+                { text: 'Large Language Models', link: '/en/ai/llm' },
+                { text: 'AI Agents', link: '/en/ai/agents' },
+                { text: 'AI Pricing', link: '/en/ai/pricing' }
+              ]
+            }
+          ],
+          '/en/web3/': [
+            {
+              text: 'Web3 Advanced',
+              items: [
+                { text: 'DeFi Deep Dive', link: '/en/web3/' },
+                { text: 'Smart Contracts', link: '/en/web3/smart-contract' },
+                { text: 'NFT Guide', link: '/en/web3/nft' },
+                { text: 'DAO', link: '/en/web3/dao' },
+                { text: 'Web3 Security', link: '/en/web3/security' }
               ]
             }
           ],
@@ -124,7 +150,26 @@ export default defineConfig({
               text: 'PulsePay',
               items: [
                 { text: 'What is PulsePay?', link: '/en/pulsepay/' },
-                { text: 'Get Started', link: '/en/pulsepay/get-started' }
+                { text: 'How It Works', link: '/en/pulsepay/how-it-works' },
+                { text: 'AI Gateway', link: '/en/pulsepay/ai-gateway' },
+                { text: 'Payment System', link: '/en/pulsepay/payment' },
+                { text: 'Revenue Share', link: '/en/pulsepay/revenue-share' },
+                { text: 'Tokenomics', link: '/en/pulsepay/tokenomics' },
+                { text: 'Get Started', link: '/en/pulsepay/get-started' },
+                { text: 'FAQ', link: '/en/pulsepay/faq' },
+                { text: 'Roadmap', link: '/en/pulsepay/roadmap' }
+              ]
+            }
+          ],
+          '/en/resources/': [
+            {
+              text: 'Resources',
+              items: [
+                { text: 'Glossary', link: '/en/resources/' },
+                { text: 'Recommended Tools', link: '/en/resources/tools' },
+                { text: 'Community', link: '/en/resources/community' },
+                { text: 'Official Links', link: '/en/resources/links' },
+                { text: 'Video Tutorials', link: '/en/resources/video' }
               ]
             }
           ]
@@ -148,7 +193,36 @@ export default defineConfig({
             {
               text: '入門指南',
               items: [
-                { text: '什麼是 Web3？', link: '/zh-TW/guide/' }
+                { text: '什麼是 Web3？', link: '/zh-TW/guide/' },
+                { text: '區塊鏈是什麼？', link: '/zh-TW/guide/blockchain' },
+                { text: '加密貨幣入門', link: '/zh-TW/guide/crypto' },
+                { text: '如何擁有一個錢包', link: '/zh-TW/guide/wallet' },
+                { text: 'DeFi 是什麼？', link: '/zh-TW/guide/defi' },
+                { text: '第一次使用 DApp', link: '/zh-TW/guide/first-dapp' }
+              ]
+            }
+          ],
+          '/zh-TW/ai/': [
+            {
+              text: 'AI 入門',
+              items: [
+                { text: 'AI 是什麼？', link: '/zh-TW/ai/' },
+                { text: '大語言模型', link: '/zh-TW/ai/llm' },
+                { text: 'AI Agent', link: '/zh-TW/ai/agents' },
+                { text: 'AIGC 入門', link: '/zh-TW/ai/aigc' },
+                { text: 'AI 為什麼付費？', link: '/zh-TW/ai/pricing' }
+              ]
+            }
+          ],
+          '/zh-TW/web3/': [
+            {
+              text: 'Web3 進階',
+              items: [
+                { text: 'DeFi 深入理解', link: '/zh-TW/web3/' },
+                { text: '智能合約原理', link: '/zh-TW/web3/smart-contract' },
+                { text: 'NFT 完全指南', link: '/zh-TW/web3/nft' },
+                { text: 'DAO 組織', link: '/zh-TW/web3/dao' },
+                { text: 'Web3 安全', link: '/zh-TW/web3/security' }
               ]
             }
           ],
@@ -168,15 +242,15 @@ export default defineConfig({
               ]
             }
           ],
-          '/zh-TW/web3/': [
+          '/zh-TW/resources/': [
             {
-              text: 'Web3 進階',
+              text: '資源',
               items: [
-                { text: 'DeFi 深入理解', link: '/zh-TW/web3/defi' },
-                { text: '智能合約原理', link: '/zh-TW/web3/smart-contract' },
-                { text: 'NFT 完全指南', link: '/zh-TW/web3/nft' },
-                { text: 'DAO 組織', link: '/zh-TW/web3/dao' },
-                { text: 'Web3 安全', link: '/zh-TW/web3/security' }
+                { text: '術語表', link: '/zh-TW/resources/' },
+                { text: '推薦工具', link: '/zh-TW/resources/tools' },
+                { text: '社區與支持', link: '/zh-TW/resources/community' },
+                { text: '官方連結', link: '/zh-TW/resources/links' },
+                { text: '影片教程', link: '/zh-TW/resources/video' }
               ]
             }
           ]
@@ -200,7 +274,35 @@ export default defineConfig({
             {
               text: 'ガイド',
               items: [
-                { text: 'Web3とは？', link: '/ja/guide/' }
+                { text: 'Web3とは？', link: '/ja/guide/' },
+                { text: 'ブロックチェーンとは？', link: '/ja/guide/blockchain' },
+                { text: '暗号通貨入門', link: '/ja/guide/crypto' },
+                { text: 'DeFiとは？', link: '/ja/guide/defi' },
+                { text: '初めてのDApp', link: '/ja/guide/first-dapp' }
+              ]
+            }
+          ],
+          '/ja/ai/': [
+            {
+              text: 'AI 基本',
+              items: [
+                { text: 'AIとは？', link: '/ja/ai/' },
+                { text: '大規模言語モデル', link: '/ja/ai/llm' },
+                { text: 'AI Agent', link: '/ja/ai/agents' },
+                { text: 'AIGC 入門', link: '/ja/ai/aigc' },
+                { text: 'AI が有料な理由', link: '/ja/ai/pricing' }
+              ]
+            }
+          ],
+          '/ja/web3/': [
+            {
+              text: 'Web3 上級',
+              items: [
+                { text: 'DeFi 深入理解', link: '/ja/web3/' },
+                { text: 'スマートコントラクト原理', link: '/ja/web3/smart-contract' },
+                { text: 'NFT 完全ガイド', link: '/ja/web3/nft' },
+                { text: 'DAO 組織', link: '/ja/web3/dao' },
+                { text: 'Web3 セキュリティ', link: '/ja/web3/security' }
               ]
             }
           ],
@@ -209,7 +311,24 @@ export default defineConfig({
               text: 'PulsePay',
               items: [
                 { text: 'PulsePayとは？', link: '/ja/pulsepay/' },
-                { text: 'クイックスタート', link: '/ja/pulsepay/get-started' }
+                { text: '仕組み', link: '/ja/pulsepay/how-it-works' },
+                { text: 'AI Gateway', link: '/ja/pulsepay/ai-gateway' },
+                { text: '収益分配', link: '/ja/pulsepay/revenue-share' },
+                { text: 'トークノミクス', link: '/ja/pulsepay/tokenomics' },
+                { text: 'クイックスタート', link: '/ja/pulsepay/get-started' },
+                { text: 'よくある質問', link: '/ja/pulsepay/faq' },
+                { text: 'ロードマップ', link: '/ja/pulsepay/roadmap' }
+              ]
+            }
+          ],
+          '/ja/resources/': [
+            {
+              text: 'リソース',
+              items: [
+                { text: '用語集', link: '/ja/resources/' },
+                { text: 'おすすめツール', link: '/ja/resources/tools' },
+                { text: 'コミュニティ', link: '/ja/resources/community' },
+                { text: '用語集', link: '/ja/resources/glossary' }
               ]
             }
           ]

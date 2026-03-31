@@ -35,8 +35,7 @@
 
 ### 第一步：注册与充值
 
-```
-1. 访问 app.pulsepay.fun
+1. 访问 [app.pulsepay.fun](https://app.pulsepay.fun)
 2. 创建或导入钱包
 3. 充值 USDT/BNB
 
@@ -44,7 +43,6 @@
 - BSC (BEP-20)
 - TRON (TRC-20)
 - ETH (ERC-20)
-```
 
 ### 第二步：获取 API Key
 
@@ -291,13 +289,13 @@ AI Gateway 收入 = AI 调用手续费
 ### Step 2：获取 AIP
 
 ```
-方式一：官方兑换
-1. 访问 stake.pulsepay.fun
+**方式一：官方兑换**
+1. 访问 [stake.pulsepay.fun](https://stake.pulsepay.fun)
 2. 连接钱包
 3. 使用 USDT/BNB 兑换 AIP
 4. Phase 1 固定价格：1 USDT = 1 AIP
 
-方式二：二级市场
+**方式二：二级市场**
 - Phase 2 开放后
 - 可在 DEX 交易
 ```
@@ -305,7 +303,7 @@ AI Gateway 收入 = AI 调用手续费
 ### Step 3：质押参与
 
 ```
-1. 访问 stake.pulsepay.fun
+1. 访问 [stake.pulsepay.fun](https://stake.pulsepay.fun)
 2. 连接钱包
 3. 激活 AIP 收益分成
 4. 最低 10 AIP 起

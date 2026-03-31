@@ -15,8 +15,8 @@
 |------|------|------|
 | **Twitter** | [@PulsePay](https://twitter.com/PulsePay) | 官方动态 |
 | **Discord** | [discord.gg/pulsepay](https://discord.gg/pulsepay) | 社区交流 |
-| **Telegram** | [t.me/pulsepay](https://t.me/pulsepay) | 英文群 |
-| **Telegram 中文** | [@pulsepay_cn](https://t.me/pulsepay_cn) | 中文社区 |
+| **Telegram** | [t.me/pulsepay](https://t.me/OS_Blockchain) | 英文群 |
+| **Telegram 中文** | [@pulsepay_cn](https://t.me/OS_Blockchain_cn) | 中文社区 |
 | **Medium** | [medium.com/pulsepay](https://medium.com/pulsepay) | 博客文章 |
 | **YouTube** | [PulsePay Official](https://youtube.com/@pulsepay) | 视频内容 |
 

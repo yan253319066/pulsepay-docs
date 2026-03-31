@@ -87,7 +87,7 @@ MetaMask defaults to Ethereum network. Switch to BSC:
 ```
 1. Visit stake.pulsepay.fun
 2. Connect wallet
-3. Stake AIP tokens
+3. Activate AIP Revenue Share
 4. Confirm transaction
 5. Start earning daily returns
 ```

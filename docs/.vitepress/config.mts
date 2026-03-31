@@ -6,6 +6,7 @@ export default defineConfig({
   description: "AI Web3 科普，从入门到精通。PulsePay 是首个将 AI 使用行为转化为链上可分配收益的基础设施协议。",
 
   head: [
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/images/logo/favicon.ico' }],
     ['meta', { name: 'robots', content: 'index, follow' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
@@ -218,10 +219,11 @@ export default defineConfig({
   },
 
   themeConfig: {
+    logo: '/images/logo/logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/pulsepay' },
       { icon: 'twitter', link: 'https://twitter.com/PulsePay' },
-      { icon: 'telegram', link: 'https://t.me/pulsepay' }
+      { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
     ],
     footer: {
       message: 'PulsePay Protocol - AI 使用即收益',

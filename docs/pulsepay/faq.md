@@ -185,8 +185,8 @@ Phase 4 规划：
 
 - MetaMask
 - Trust Wallet
-- PulseWallet（官方）
 - 其他支持 BSC 的钱包
+- PulseWallet（即将上线）
 
 ### 支持哪些网络？
 
@@ -203,7 +203,7 @@ Phase 4 规划：
 ### 如何联系客服？
 
 - Discord：[PulsePay Discord](https://discord.gg/pulsepay)
-- Telegram：[PulsePay Telegram](https://t.me/pulsepay)
+- Telegram：[PulsePay Telegram](https://t.me/OS_Blockchain)
 - Email：support@pulsepay.fun
 
 ### 官方链接
@@ -216,5 +216,5 @@ Phase 4 规划：
 | 收益分成 | stake.pulsepay.fun |
 
 ::: tip 💡 没有找到答案？
-欢迎加入 [Discord](https://discord.gg/pulsepay) 或 [Telegram](https://t.me/pulsepay) 社区提问。
+欢迎加入 [Discord](https://discord.gg/pulsepay) 或 [Telegram](https://t.me/OS_Blockchain) 社区提问。
 :::

@@ -6,7 +6,7 @@
 
 ```
 1. Crypto Wallet
-   Recommended: MetaMask or PulseWallet
+   Recommended: MetaMask
    Install: Browser extension or mobile app
 
 2. Small Amount of Crypto
@@ -29,14 +29,9 @@ Option 1: MetaMask (Browser Extension)
 4. Backup seed phrase (12 words)
 5. Set password
 
-Option 2: PulseWallet (Recommended)
+Option 2: MetaMask (Recommended)
 
-1. Visit app.pulsepay.fun
-2. Click "Create Wallet"
-3. Set password
-4. Backup seed phrase
-5. Done
-```
+MetaMask is the most popular Web3 wallet and fully supports all PulsePay features.
 
 ### Step 2: Configure BSC Network
 
@@ -80,7 +75,7 @@ Method 1: Buy from Exchange
 ```
 1. Visit stake.pulsepay.fun
 2. Click "Connect Wallet"
-3. Select MetaMask or PulseWallet
+3. Select MetaMask
 4. Authorize connection
 
 5. Go to "Exchange" page
@@ -96,7 +91,7 @@ Method 1: Buy from Exchange
 9. Done! AIP is in your wallet
 ```
 
-### Stake AIP
+### Activate AIP Revenue Share
 
 ```
 1. Go to "Stake" page

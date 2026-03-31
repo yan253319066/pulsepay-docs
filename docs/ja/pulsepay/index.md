@@ -3,15 +3,17 @@
 ## 一言で理解する PulsePay
 
 ```
-PulsePay = AI使用 = マイニング
+PulsePay = AI使用有料 + AIPで収益分配を起動して収益分配
 
 従来モデル：
 AIを使用 → AI会社に支払う → 収益は会社に归属
 
 PulsePayモデル：
-AIを使用 → PulsePayに支払う → 収益の一部をあなたに（AIP保有者）
-                        ↑
-                        AIP保有 = AI発展の配当금을共有
+AIを使用 → PulsePayに支払う（USDT/BNB）
+                        ↓
+                  プラットフォームが 실제業務収益を獲得
+                        ↓
+        AIPで収益分配を起動 → 収益分配に参加 → 毎日USDT/BNB配当を獲得
 ```
 
 ## コアポジション

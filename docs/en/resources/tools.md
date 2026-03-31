@@ -18,14 +18,6 @@ Features: Official Binance wallet
 Download: trustwallet.com
 ```
 
-### PulseWallet
-```
-Type: Web Wallet
-Supports: BSC, TRON
-Features: PulsePay official recommendation
-Visit: app.pulsepay.fun
-```
-
 ## Exchanges
 
 ### Binance

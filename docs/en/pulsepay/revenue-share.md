@@ -5,11 +5,11 @@
 ```
 Revenue Share = Share platform revenue
 
-Hold AIP → Stake → Receive daily USDT/BNB dividends
+Activate AIP Revenue Share → Receive daily USDT/BNB dividends
 
 Analogy:
 Hold Apple stock → Get Apple company dividends
-Hold AIP → Get PulsePay platform dividends
+Activate AIP Revenue Share → Get PulsePay platform dividends
 
 Difference:
 - Stock dividends come from profit
@@ -44,7 +44,7 @@ Daily platform revenue distribution:
 
 ```
 1. Visit stake.pulsepay.fun
-2. Connect wallet (MetaMask/PulseWallet)
+2. Connect wallet (MetaMask)
 3. Go to "Stake" page
 4. Enter AIP amount (or click Max)
 5. Click "Stake"

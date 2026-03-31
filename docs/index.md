@@ -22,10 +22,10 @@ features:
     details: 专为小白设计，每个概念都有图解，让你轻松理解区块链和 AI 的世界
   - icon: 🤖
     title: AI + Web3
-    details: 了解 AI 如何与 Web3 结合，探索"AI 使用即收益"的新范式
+    details: 了解 AI 如何与 Web3 结合，探索"AI 使用付费 → 质押 AIP → 获得收益"的新范式
   - icon: 💰
     title: 边学边赚
-    details: 持有 AIP 参与收益分成，分享平台增长红利，让学习产生价值
+    details: 激活 AIP 收益分成，分享平台增长红利，让学习产生价值
   - icon: 🔒
     title: 安全第一
     details: 学会保护自己的数字资产，了解常见安全风险和防范措施

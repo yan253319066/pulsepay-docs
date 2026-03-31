@@ -6,7 +6,7 @@
 
 ```
 1. 加密钱包
-   推荐：MetaMask 或 PulseWallet
+   推荐：MetaMask
    安装：浏览器插件或手机 App
 
 2. 少量加密货币
@@ -29,14 +29,9 @@
 4. 备份助记词（12个单词）
 5. 设置密码
 
-方案二：PulseWallet（官方推荐）
+方案二：MetaMask（推荐）
 
-1. 访问 app.pulsepay.fun
-2. 点击"创建钱包"
-3. 设置密码
-4. 备份助记词
-5. 完成
-```
+MetaMask 是最流行的 Web3 钱包，可以完全支持 PulsePay 的所有功能。
 
 ### 第二步：配置 BSC 网络
 
@@ -84,7 +79,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 ```
 1. 访问 stake.pulsepay.fun
 2. 点击"连接钱包"
-3. 选择 MetaMask 或 PulseWallet
+3. 选择 MetaMask
 4. 授权连接
 
 5. 进入"兑换"页面
@@ -100,7 +95,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 9. 完成！AIP 已到账
 ```
 
-### 质押 AIP
+### 激活 AIP 收益分成
 
 ```
 1. 进入"质押"页面
@@ -160,7 +155,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 │   ├── 1. 访问 stake.pulsepay.fun                      │
 │   ├── 2. 连接钱包                                      │
 │   ├── 3. 兑换 AIP（1 USDT = 1 AIP）                   │
-│   └── 4. 质押 AIP                                      │
+│   └── 4. 激活 AIP 收益分成                                      │
 │                                                         │
 │   ↓                                                    │
 │                                                         │

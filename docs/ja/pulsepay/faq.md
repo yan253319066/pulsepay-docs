@@ -73,9 +73,9 @@ PulsePayは以下のセキュリティ対策を実装しています：
 ### 客服への連絡方法
 
 - Discord：[PulsePay Discord](https://discord.gg/pulsepay)
-- Telegram：[PulsePay Telegram](https://t.me/pulsepay)
+- Telegram：[PulsePay Telegram](https://t.me/OS_Blockchain)
 - Email：support@pulsepay.fun
 
 ::: tip 💡 答えが見つかりませんか？
-[Discord](https://discord.gg/pulsepay) または [Telegram](https://t.me/pulsepay) コミュニティに参加して質問してください。
+[Discord](https://discord.gg/pulsepay) または [Telegram](https://t.me/OS_Blockchain) コミュニティに参加して質問してください。
 :::

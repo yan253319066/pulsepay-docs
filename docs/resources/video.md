@@ -7,8 +7,8 @@
 | 视频 | 时长 | 说明 |
 |------|------|------|
 | [PulsePay 是什么？](https://youtube.com/@pulsepay) | 3:00 | 项目介绍 |
-| [如何创建钱包](https://youtube.com/@pulsepay) | 5:00 | MetaMask/PulseWallet 创建教程 |
-| [如何质押 AIP](https://youtube.com/@pulsepay) | 4:00 | 收益分成操作指南 |
+| [如何创建钱包](https://youtube.com/@pulsepay) | 5:00 | MetaMask 创建教程 |
+| [如何激活 AIP 收益分成](https://youtube.com/@pulsepay) | 4:00 | 收益分成操作指南 |
 
 ### 进阶教程
 

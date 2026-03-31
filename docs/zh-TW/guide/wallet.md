@@ -38,16 +38,7 @@
 官網：metamask.io
 ```
 
-### 2. PulseWallet（PulsePay 官方錢包）
-
-```
-適用：新手入門
-支持：USDT、BNB、AIP
-官網：app.pulsepay.fun
-特點：介面簡潔，專為 PulsePay 用戶設計
-```
-
-### 3. Trust Wallet（手機錢包）
+### 2. Trust Wallet（手機錢包）
 
 ```
 適用：手機用戶
@@ -55,19 +46,7 @@
 官網：trustwallet.com
 ```
 
-## 保姆級教程：創建 PulseWallet
-
-### 第一步：訪問官網
-
-```
-打開瀏覽器，輸入：
-👉 app.pulsepay.fun
-```
-
-### 第二步：創建錢包
-
-```
-1. 點擊"創建錢包"
+## 推薦教程：創建 MetaMask
 2. 設定密碼（至少8位）
 3. 確認密碼
 4. 點擊"創建"
@@ -110,12 +89,12 @@
 
 ## 找到你的錢包地址
 
-### 在 PulseWallet 中查看
+### 在 MetaMask 中查看錢包地址
 
 ```
-1. 打開 PulseWallet
-2. 點擊"錢包"或錢包圖標
-3. 點擊"複製地址"
+1. 打開 MetaMask
+2. 點擊錢包地址
+3. 自動複製到剪貼板
 4. 或者點擊"顯示二維碼"
 ```
 

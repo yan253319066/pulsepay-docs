@@ -3,15 +3,17 @@
 ## One-Line Explanation
 
 ```
-PulsePay = AI Usage = Mining
+PulsePay = Pay to Use AI + Activate AIP Revenue Share to Earn Revenue
 
 Traditional Model:
 You use AI → Pay AI company → Earnings go to company
 
 PulsePay Model:
-You use AI → Pay PulsePay → Part of earnings goes to YOU (hold AIP)
-                        ↑
-                        Holding AIP = Share AI development dividends
+You use AI → Pay PulsePay (USDT/BNB)
+                        ↓
+                  Platform earns real business revenue
+                        ↓
+        Activate AIP Revenue Share → Join revenue share → Receive daily USDT/BNB dividends
 ```
 
 ## Core Positioning

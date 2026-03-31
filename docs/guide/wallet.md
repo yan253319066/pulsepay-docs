@@ -20,6 +20,8 @@
 你的私钥 = 银行卡密码（不告诉任何人）
 ```
 
+![钱包安全指南](/images/guide/wallet-security.svg)
+
 ## 选择钱包类型
 
 | 类型 | 适合人群 | 优点 | 缺点 |
@@ -38,16 +40,7 @@
 官网：metamask.io
 ```
 
-### 2. PulseWallet（PulsePay 官方钱包）
-
-```
-适用：新手入门
-支持：USDT、BNB、AIP
-官网：app.pulsepay.fun
-特点：界面简洁，专为 PulsePay 用户设计
-```
-
-### 3. Trust Wallet（手机钱包）
+### 2. Trust Wallet（手机钱包）
 
 ```
 适用：手机用户
@@ -55,14 +48,7 @@
 官网：trustwallet.com
 ```
 
-## 保姆级教程：创建 PulseWallet
-
-### 第一步：访问官网
-
-```
-打开浏览器，输入：
-👉 app.pulsepay.fun
-```
+## 推荐教程：创建 MetaMask
 
 ### 第二步：创建钱包
 
@@ -110,12 +96,12 @@
 
 ## 找到你的钱包地址
 
-### 在 PulseWallet 中查看
+### 在 MetaMask 中查看
 
 ```
-1. 打开 PulseWallet
-2. 点击"钱包"或钱包图标
-3. 点击"复制地址"
+1. 打开 MetaMask
+2. 点击账户地址
+3. 点击"复制"按钮
 4. 或者点击"显示二维码"
 ```
 

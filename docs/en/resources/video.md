@@ -7,8 +7,8 @@
 | Video | Duration | Description |
 |-------|----------|-------------|
 | [What is PulsePay?](https://youtube.com/@pulsepay) | 3:00 | Project introduction |
-| [How to Create a Wallet](https://youtube.com/@pulsepay) | 5:00 | MetaMask/PulseWallet tutorial |
-| [How to Stake AIP](https://youtube.com/@pulsepay) | 4:00 | Staking rewards guide |
+| [How to Create a Wallet](https://youtube.com/@pulsepay) | 5:00 | MetaMask tutorial |
+| [How to Activate AIP Revenue Share](https://youtube.com/@pulsepay) | 4:00 | Revenue Share guide |
 
 ### Advanced Tutorials
 

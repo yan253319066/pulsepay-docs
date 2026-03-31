@@ -149,7 +149,7 @@ Scenario: Automated AI service provider
 2. Uses PulsePay AI Gateway for power
 3. Users pay to use Agent
 4. Developer earns revenue
-5. AIP holders share platform revenue
+5. AIP Revenue Sharers share platform revenue
 ```
 
 ::: tip 💡 PulsePay AI Gateway

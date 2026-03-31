@@ -185,7 +185,6 @@ Phase 4 plan:
 
 - MetaMask
 - Trust Wallet
-- PulseWallet (Official)
 - Other BSC-compatible wallets
 
 ### Which networks are supported?
@@ -203,7 +202,7 @@ Visit [ai.pulsepay.fun](https://ai.pulsepay.fun) for API documentation and Key.
 ### How to contact customer service?
 
 - Discord: [PulsePay Discord](https://discord.gg/pulsepay)
-- Telegram: [PulsePay Telegram](https://t.me/pulsepay)
+- Telegram: [PulsePay Telegram](https://t.me/OS_Blockchain)
 - Email: support@pulsepay.fun
 
 ### Official Links
@@ -216,5 +215,5 @@ Visit [ai.pulsepay.fun](https://ai.pulsepay.fun) for API documentation and Key.
 | Staking | stake.pulsepay.fun |
 
 ::: tip 💡 Can't find answer?
-Welcome to join [Discord](https://discord.gg/pulsepay) or [Telegram](https://t.me/pulsepay) community to ask questions.
+Welcome to join [Discord](https://discord.gg/pulsepay) or [Telegram](https://t.me/OS_Blockchain) community to ask questions.
 :::

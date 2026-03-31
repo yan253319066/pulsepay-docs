@@ -35,8 +35,7 @@
 
 ### 錢包
 - MetaMask - 最流行的瀏覽器錢包
-- Trust Wallet - 行動端錢包
-- PulseWallet - PulsePay 官方錢包
+- Trust Wallet - 移動端錢包
 
 ### 區塊鏈瀏覽器
 - BSCScan - BSC 鏈上查詢

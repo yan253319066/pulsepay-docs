@@ -6,7 +6,7 @@
 
 ```
 1. 暗号ウォレット
-   推奨：MetaMask または PulseWallet
+   推奨：MetaMask
    インストール：ブラウザ拡張機能またはスマホアプリ
 
 2. 少量の暗号通貨
@@ -29,14 +29,9 @@
 4. シードフレーズ（12単語）をバックアップ
 5. パスワードを設定
 
-方法2：PulseWallet（公式推奨）
+方法2：MetaMask（推奨）
 
-1. app.pulsepay.funにアクセス
-2. 「ウォレット作成」をクリック
-3. パスワードを設定
-4. シードフレーズをバックアップ
-5. 完了
-```
+MetaMaskは最も人気のWeb3ウォレットで、PulsePayの全機能を利用できます。
 
 ### ステップ2：BSCネットワークを設定
 
@@ -80,7 +75,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 ```
 1. stake.pulsepay.funにアクセス
 2. 「ウォレット接続」をクリック
-3. MetaMaskまたはPulseWalletを選択
+3. MetaMaskを選択
 4. 接続を許可
 
 5. 「交換」ページに移動
@@ -96,7 +91,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 9. 完了！AIPがウォレットに着金
 ```
 
-### AIPをステーク
+### AIPで収益分配を起動
 
 ```
 1. 「ステーク」ページに移動

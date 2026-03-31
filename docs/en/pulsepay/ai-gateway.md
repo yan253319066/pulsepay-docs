@@ -272,14 +272,14 @@ A: PulsePay AI Gateway advantages:
 - USDT/BNB settlement
 - Unified bill management
 - Supports developers building AI apps
-- Hold AIP to earn dividends
+- Activate AIP Revenue Share to earn dividends
 
 ### Q: Any price advantage?
 
 A: PulsePay pricing is synchronized with official pricing. Advantages:
 - Unified settlement
-- Hold AIP to share platform revenue
-- Long-term "using = mining"
+- Activate AIP Revenue Share to share platform revenue
+- Long-term "stake AIP to continuously earn revenue"
 
 ::: tip 💡 Start Using
 Visit [ai.pulsepay.fun](https://ai.pulsepay.fun) to experience AI Gateway now.

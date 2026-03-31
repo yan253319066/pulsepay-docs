@@ -5,7 +5,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │                        User Layer                            │
-│                   PulseWallet (app.pulsepay.fun)            │
+│                   MetaMask / Third-party Wallet              │
 │              Users manage assets, participate in revenue    │
 └─────────────────────────────────────────────────────────────┘
                                ↓
@@ -219,7 +219,7 @@ Contract address: View on BSCScan
 
 ```
 Main functions:
-- stake(): Stake AIP
+- stake(): Activate AIP Revenue Share
 - unstake(): Unstake
 - claim(): Claim revenue
 - getReward(): Calculate due revenue
@@ -281,7 +281,7 @@ Transparency:
 
 ```
 Required tools:
-1. Crypto wallet (MetaMask or PulseWallet)
+1. Crypto wallet (MetaMask recommended)
 2. Small amount of BNB (for Gas fees)
 3. USDT (for exchanging AIP)
 ```
@@ -305,7 +305,7 @@ Method 2: Secondary market
 ```
 1. Visit stake.pulsepay.fun
 2. Connect wallet
-3. Stake AIP
+3. Activate AIP Revenue Share
 4. Minimum 10 AIP
 5. Start earning daily revenue
 ```

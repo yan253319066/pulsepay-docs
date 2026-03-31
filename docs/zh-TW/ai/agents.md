@@ -125,7 +125,7 @@ AI Agent 的痛点：
 2. 使用 PulsePay AI Gateway 供电
 3. 用户使用 Agent，付费
 4. 开发者获得收入
-5. 持有 AIP 的用户分享平台收入
+5. 啟動 AIP 收益分成的用戶分享平台收入
 ```
 
 ::: tip 💡 PulsePay AI Gateway

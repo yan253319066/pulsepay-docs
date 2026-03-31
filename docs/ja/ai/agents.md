@@ -120,7 +120,7 @@ AI Agent の課題：
 2. PulsePay AI Gateway で駆動
 3. ユーザーがAgent を使用、支払い
 4. デベロッパーが収益獲得
-5. AIP保有者がプラットフォーム収益を分配
+5. AIPで収益分配を起動するユーザーがプラットフォーム収益を分配
 ```
 
 ::: tip 💡 PulsePay AI Gateway

@@ -3,15 +3,17 @@
 ## 一句話理解 PulsePay
 
 ```
-PulsePay = AI 使用即挖礦
+PulsePay = AI 使用付費 + 啟動 AIP 收益分成 獲得收益分成
 
 傳統模式：
 你使用 AI → 付費給 AI 公司 → 收益歸公司
 
 PulsePay 模式：
-你使用 AI → 付費給 PulsePay → 收益的一部分分給你（持有 AIP）
-                        ↑
-                        持有 AIP = 分享 AI 發展的紅利
+你使用 AI → 付費給 PulsePay（USDT/BNB）
+                        ↓
+                  平台獲得真實業務收入
+                        ↓
+        啟動 AIP 收益分成 → 參與收益分成 → 每日獲得 USDT/BNB 分紅
 ```
 
 ## 核心定位

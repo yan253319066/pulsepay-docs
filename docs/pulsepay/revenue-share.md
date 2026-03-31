@@ -9,12 +9,14 @@
 
 类比：
 持有苹果股票 → 获得苹果公司分红
-持有 AIP → 获得 PulsePay 平台分红
+激活 AIP 收益分成 → 获得 PulsePay 平台分红
 
 区别：
 - 股票分红来自利润
 - AIP 分红来自平台业务收入
 ```
+
+![收益计算示例](/images/pulsepay/revenue-calc.svg)
 
 ## 收益来源
 

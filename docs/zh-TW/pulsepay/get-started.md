@@ -6,7 +6,7 @@
 
 ```
 1. 加密錢包
-   推薦：MetaMask 或 PulseWallet
+   推薦：MetaMask
    安裝：瀏覽器插件或手機 App
 
 2. 少量加密貨幣
@@ -29,14 +29,9 @@
 4. 備份助記詞（12個單詞）
 5. 設置密碼
 
-方案二：PulseWallet（官方推薦）
+方案二：MetaMask（推薦）
 
-1. 訪問 app.pulsepay.fun
-2. 點擊「創建錢包」
-3. 設置密碼
-4. 備份助記詞
-5. 完成
-```
+MetaMask 是最流行的 Web3 錢包，可以完全支持 PulsePay 的所有功能。
 
 ### 第二步：配置 BSC 網絡
 
@@ -84,7 +79,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 ```
 1. 訪問 stake.pulsepay.fun
 2. 點擊「連接錢包」
-3. 選擇 MetaMask 或 PulseWallet
+3. 選擇 MetaMask
 4. 授權連接
 
 5. 進入「兌換」頁面
@@ -100,7 +95,7 @@ RPC URL：https://bsc-dataseed.binance.org/
 9. 完成！AIP 已到賬
 ```
 
-### 質押 AIP
+### 啟動 AIP 收益分成
 
 ```
 1. 進入「質押」頁面

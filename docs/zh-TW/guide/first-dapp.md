@@ -28,7 +28,6 @@ DApp：
 推薦錢包：
 - MetaMask（瀏覽器插件）
 - Trust Wallet（手機）
-- PulseWallet（PulsePay 專用）
 
 以 MetaMask 為例：
 1. 訪問 metamask.io
@@ -279,8 +278,8 @@ Gas 單價（以 BSC 為例）：
    訪問 stake.pulsepay.fun
    使用 USDT 兌換 AIP
 
-4. 質押 AIP
-   質押 AIP 獲得收益分成
+4. 啟動 AIP 收益分成
+   啟動 AIP 收益分成獲得收益
    每日領取分紅
 
 5. 領取收益

@@ -36,7 +36,6 @@
 ### 钱包
 - MetaMask - 最流行的浏览器钱包
 - Trust Wallet - 移动端钱包
-- PulseWallet - PulsePay 官方钱包
 
 ### 区块链浏览器
 - BSCScan - BSC 链上查询

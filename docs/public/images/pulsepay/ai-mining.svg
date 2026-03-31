@@ -1,10 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 400">
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#64748b"/>
+    </marker>
+  </defs>
+  
   <!-- Background -->
   <rect width="700" height="400" fill="#f8fafc"/>
   
   <!-- Title -->
-  <text x="350" y="30" text-anchor="middle" fill="#1e293b" font-size="20" font-weight="bold">AI 使用即挖矿</text>
-  <text x="350" y="50" text-anchor="middle" fill="#64748b" font-size="12">AI Usage = Mining</text>
+  <text x="350" y="30" text-anchor="middle" fill="#1e293b" font-size="20" font-weight="bold">AI 使用付费 → 激活 AIP 收益分成</text>
+  <text x="350" y="50" text-anchor="middle" fill="#64748b" font-size="12">Use AI → Stake AIP → Earn Revenue</text>
   
   <!-- Flow -->
   
@@ -35,13 +41,13 @@
   
   <!-- Arrow 3 -->
   <path d="M380 260 L200 260" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
-  <text x="290" y="275" text-anchor="middle" fill="#64748b" font-size="10">质押 AIP</text>
+  <text x="290" y="275" text-anchor="middle" fill="#64748b" font-size="10">激活收益分成</text>
   
   <!-- AIP Token -->
   <circle cx="200" cy="330" r="50" fill="#ffd700"/>
   <text x="200" y="325" text-anchor="middle" fill="#333" font-size="16" font-weight="bold">AIP</text>
   <text x="200" y="345" text-anchor="middle" fill="#666" font-size="10">Token</text>
-  <text x="200" y="360" text-anchor="middle" fill="#666" font-size="9">持有即挖矿</text>
+  <text x="200" y="360" text-anchor="middle" fill="#666" font-size="9">激活收益分成</text>
   
   <!-- Arrow 4 -->
   <path d="M255 330 L305 330" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
@@ -50,7 +56,7 @@
   <rect x="310" y="280" width="150" height="100" rx="12" fill="#f59e0b"/>
   <text x="385" y="310" text-anchor="middle" fill="#ffffff" font-size="14" font-weight="bold">收益分成</text>
   <text x="385" y="330" text-anchor="middle" fill="#fef3c7" font-size="10">Revenue Share</text>
-  <text x="385" y="350" text-anchor="middle" fill="#fde68a" font-size="9">40% 给质押者</text>
+  <text x="385" y="350" text-anchor="middle" fill="#fde68a" font-size="9">40% 给参与分成者</text>
   
   <!-- Arrow 5 -->
   <path d="M465 330 L515 330" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
@@ -63,5 +69,5 @@
   
   <!-- Bottom Note -->
   <rect x="100" y="50" width="500" height="40" rx="8" fill="#fef3c7"/>
-  <text x="350" y="70" text-anchor="middle" fill="#92400e" font-size="12">💡 持有 AIP = 分享 AI 发展的红利 | Hold AIP = Share AI growth dividends</text>
+  <text x="350" y="70" text-anchor="middle" fill="#92400e" font-size="12">💡 激活 AIP 收益分成 = 分享 AI 发展的红利 | Activate AIP Revenue Share = Share AI growth</text>
 </svg>

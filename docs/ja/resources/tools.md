@@ -18,14 +18,6 @@
 ダウンロード：trustwallet.com
 ```
 
-### PulseWallet
-```
-タイプ：Web ウォレット
-サポート：BSC、TRON
-特徴：PulsePay 公式推奨
-アクセス：app.pulsepay.fun
-```
-
 ## 取引所
 
 ### 币安 (Binance)

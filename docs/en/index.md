@@ -22,10 +22,10 @@ features:
     details: Designed for beginners, every concept explained with diagrams to help you understand blockchain and AI easily
   - icon: 🤖
     title: AI + Web3
-    details: Learn how AI combines with Web3, explore the new paradigm of "AI Usage = Mining"
+    details: Learn how AI combines with Web3, explore the new paradigm of "Use AI → Activate AIP Revenue Share → Earn"
   - icon: 💰
     title: Learn & Earn
-    details: Stake AIP to earn revenue share, share platform growth dividends, let learning create value
+    details: Activate AIP Revenue Share to earn revenue share, share platform growth dividends, let learning create value
   - icon: 🔒
     title: Security First
     details: Learn to protect your digital assets, understand common security risks and prevention measures

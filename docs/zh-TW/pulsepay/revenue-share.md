@@ -9,7 +9,7 @@
 
 類比：
 持有蘋果股票 → 獲得蘋果公司分紅
-持有 AIP → 獲得 PulsePay 平台分紅
+啟動 AIP 收益分成 → 獲得 PulsePay 平台分紅
 
 區別：
 - 股票分紅來自利潤
@@ -74,7 +74,7 @@
 
 ```
 1. 訪問 stake.pulsepay.fun
-2. 連接錢包（MetaMask/PulseWallet）
+2. 連接錢包（MetaMask）
 3. 進入"質押"頁面
 4. 輸入 AIP 數量（或點擊最大值）
 5. 點擊"質押"

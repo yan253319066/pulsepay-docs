@@ -36,7 +36,6 @@ Video tutorials to help you understand how to use PulsePay.
 ### Wallets
 - MetaMask - Most popular browser wallet
 - Trust Wallet - Mobile wallet
-- PulseWallet - Official PulsePay wallet
 
 ### Block Explorers
 - BSCScan - BSC chain explorer

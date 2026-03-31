@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
   <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#ffffff"/>
+    </marker>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#667eea"/>
       <stop offset="100%" style="stop-color:#764ba2"/>
@@ -34,5 +37,5 @@
   
   <!-- Title -->
   <text x="400" y="60" text-anchor="middle" fill="#ffffff" font-size="32" font-weight="bold">PulsePay Protocol</text>
-  <text x="400" y="90" text-anchor="middle" fill="#ffffff" font-size="16" opacity="0.8">AI Usage = Mining</text>
+  <text x="400" y="90" text-anchor="middle" fill="#ffffff" font-size="16" opacity="0.8">Use AI → Earn Revenue</text>
 </svg>

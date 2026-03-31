@@ -221,8 +221,8 @@ export default defineConfig({
   themeConfig: {
     logo: '/images/logo/logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/pulsepay' },
-      { icon: 'twitter', link: 'https://twitter.com/PulsePay' },
+      // { icon: 'github', link: 'https://github.com/pulsepay' },
+      // { icon: 'twitter', link: 'https://twitter.com/PulsePay' },
       { icon: 'telegram', link: 'https://t.me/OS_Blockchain' }
     ],
     footer: {
